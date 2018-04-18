@@ -1,10 +1,14 @@
 {
-    "version":{
-        "id": "1.0.0",
-        "url": "https://raw.github.com/download/aa.apk"
-    },
-    "groups":[
-        "-5628168404",
-        "-5395232826"
-    ]
+	"android": {
+		"version": "1.0.0",
+		"url": "https://raw.github.com/download/aa.apk"
+	},
+	"ios": {
+		"version": "1.0.0",
+		"url": "https://raw.github.com/download/bb.ipa"
+	},
+	"groups": [
+		"https://t.me/coin2worldcn"
+		"https://t.me/coin2world"
+	]
 }
