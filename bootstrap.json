@@ -1,14 +1,22 @@
 {
 	"android": {
 		"version": "1.0.0",
-		"url": "https://raw.github.com/download/aa.apk"
+		"url": "https://raw.github.com/download/aa.apk",
+		"channels" : [
+			{
+				"link" : "https://t.me/Coin2World_CN",
+				"channel_id": 1121593402,
+				"access_hash": -1396213138678739863
+			},
+			{
+				"link" : "https://t.me/coin2world",
+				"channel_id": 1333201108,
+				"access_hash": 7129879294603335640
+			}
+		]
 	},
 	"ios": {
 		"version": "1.0.0",
 		"url": "https://raw.github.com/download/bb.ipa"
-	},
-	"groups": [
-		"https://t.me/Coin2World_CN",
-		"https://t.me/coin2world"
-	]
+	}
 }
