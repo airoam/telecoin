@@ -3,10 +3,6 @@
 		"version": "1.0.0",
 		"url": "https://raw.github.com/download/aa.apk",
 		"channels" : [
-			{
-		        "name": "coin2world",
-		        "channel_id": 1121593402
-		    },
 		    {
 		        "name": "Coin2World_CN",
 		        "channel_id": 1333201108
