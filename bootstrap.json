@@ -4,15 +4,13 @@
 		"url": "https://raw.github.com/download/aa.apk",
 		"channels" : [
 			{
-				"link" : "https://t.me/Coin2World_CN",
-				"channel_id": 1121593402,
-				"access_hash": -1396213138678739863
-			},
-			{
-				"link" : "https://t.me/coin2world",
-				"channel_id": 1333201108,
-				"access_hash": 7129879294603335640
-			}
+		        "name": "coin2world",
+		        "channel_id": 1121593402
+		    },
+		    {
+		        "name": "Coin2World_CN",
+		        "channel_id": 1333201108
+		    }
 		]
 	},
 	"ios": {
