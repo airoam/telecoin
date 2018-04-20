@@ -14,8 +14,13 @@
 		"url": "https://raw.github.com/download/bb.ipa",
 		"channels" : [
 		    {
-		        "name": "Coin2World_CN",
-		        "channel_id": 1333201108
+		        "name": "Coin2World_CN"
+			},
+			{
+		        "name": "yunbiCN"
+			},
+			{
+		        "name": "cexcom"
 		    }
 		]
 	}
