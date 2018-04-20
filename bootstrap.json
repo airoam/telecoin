@@ -11,6 +11,12 @@
 	},
 	"ios": {
 		"version": "1.0.0",
-		"url": "https://raw.github.com/download/bb.ipa"
+		"url": "https://raw.github.com/download/bb.ipa",
+		"channels" : [
+		    {
+		        "name": "Coin2World_CN",
+		        "channel_id": 1333201108
+		    }
+		]
 	}
 }
