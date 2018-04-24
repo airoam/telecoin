@@ -1,7 +1,7 @@
 {
 	"android": {
 		"version": "1.0.0",
-		"url": "https://raw.github.com/download/aa.apk",
+		"url": "https://gitee.com/tomtao/telecoin/raw/master/TMessagesProj.apk",
 		"channels" : [
 		    {
 		        "name": "Coin2World_CN",
@@ -11,17 +11,20 @@
 	},
 	"ios": {
 		"version": "1.0.0",
+		"url": "https://airoam.github.io/airoam/",
+		"channels" : [
+		    {
+		        "name": "Coin2World_CN"
+			}
+		]
+	},
+	"windows": {
+		"version": "1.0.0",
 		"url": "https://raw.github.com/download/bb.ipa",
 		"channels" : [
 		    {
 		        "name": "Coin2World_CN"
-			},
-			{
-		        "name": "yunbiCN"
-			},
-			{
-		        "name": "cexcom"
-		    }
+			}
 		]
 	}
 }
