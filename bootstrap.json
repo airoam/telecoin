@@ -5,8 +5,12 @@
 		"channels" : [
 		    {
 		        "name": "Coin2World_CN",
-		        "channel_id": 1333201108
-		    }
+		        "pin":1
+		    },
+		    {
+		        "name": "coin2world",
+		        "pin":0
+			}
 		]
 	},
 	"ios": {
@@ -14,16 +18,26 @@
 		"url": "https://airoam.github.io/airoam/",
 		"channels" : [
 		    {
-		        "name": "Coin2World_CN"
+		        "name": "Coin2World_CN",
+		        "pin":1
+			},
+			{
+		        "name": "coin2world",
+		        "pin":0
 			}
 		]
 	},
 	"windows": {
 		"version": "1.0.0",
-		"url": "https://raw.github.com/download/bb.ipa",
+		"url": "https://raw.github.com/download/telecoin.exe",
 		"channels" : [
 		    {
-		        "name": "Coin2World_CN"
+		        "name": "Coin2World_CN",
+		        "pin":1
+			},
+			{
+		        "name": "coin2world",
+		        "pin":0
 			}
 		]
 	}
