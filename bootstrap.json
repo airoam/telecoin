@@ -5,7 +5,7 @@
 		"channels" : [
 		    {
 		        "name": "Coin2World_CN",
-		        "pin":0
+		        "pin":1
 		    },
 		    {
 		        "name": "coin2world",
@@ -20,10 +20,6 @@
 		    {
 		        "name": "Coin2World_CN",
 		        "pin":0
-			},
-			{
-		        "name": "coin2world",
-		        "pin":0
 			}
 		]
 	},
@@ -33,7 +29,7 @@
 		"channels" : [
 		    {
 		        "name": "Coin2World_CN",
-		        "pin":0
+		        "pin":1
 			},
 			{
 		        "name": "coin2world",
