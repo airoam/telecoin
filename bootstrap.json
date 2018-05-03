@@ -6,20 +6,16 @@
 		    {
 		        "name": "Coin2World_CN",
 		        "pin":1
-		    },
-		    {
-		        "name": "coin2world",
-		        "pin":0
-			}
+		    }
 		]
 	},
 	"ios": {
 		"version": "1.0.0",
-		"url": "https://airoam.github.io/airoam/",
+		"url": "https://itunes.apple.com/us/app/%E6%AF%94%E7%89%B9%E7%94%B5%E6%8A%A5/id1377524260?l=zh&ls=1&mt=8",
 		"channels" : [
 		    {
 		        "name": "Coin2World_CN",
-		        "pin":0
+		        "pin":1
 			}
 		]
 	},
