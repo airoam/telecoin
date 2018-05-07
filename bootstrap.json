@@ -21,15 +21,11 @@
 	},
 	"windows": {
 		"version": "1.0.0",
-		"url": "https://raw.github.com/download/telecoin.exe",
+		"url": "https://gitee.com/tomtao/telecoin/raw/master/TeleCoin.msi",
 		"channels" : [
 		    {
 		        "name": "Coin2World_CN",
 		        "pin":1
-			},
-			{
-		        "name": "coin2world",
-		        "pin":0
 			}
 		]
 	}
