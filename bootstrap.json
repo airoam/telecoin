@@ -20,7 +20,7 @@
 		]
 	},
 	"windows": {
-		"version": "1.0.1",
+		"version": "1.0.0",
 		"url": "https://gitee.com/tomtao/telecoin/raw/master/TeleCoin.zip",
 		"channels" : [
 		    {
