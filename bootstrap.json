@@ -21,7 +21,7 @@
 	},
 	"windows": {
 		"version": "1.0.1",
-		"url": "https://gitee.com/tomtao/telecoin/raw/master/TeleCoin.msi",
+		"url": "https://airoam.github.io/airoam/",
 		"channels" : [
 		    {
 		        "name": "Coin2World_CN",
